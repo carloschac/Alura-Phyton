@@ -5,6 +5,7 @@ Projetos e Aulas do curso de Phyton
 <!-- ====================TIPOS=================== -->
 
 O Python não faz a conversão de tipos automaticamente, segue exemplo de declaração de tipo
+a var chute é do tipo string, transformei ela para tipo INT utilizando a syntax abaixo.
 
 chute = int(chute_str)
 
@@ -29,3 +30,8 @@ Seguem todas as operadores de comparação:
 >   = - maior ou igual a
 >   == - igual a
 >   != - diferente de
+
+<!-- =======================IMPORT EM PYTHON ============================== -->
+
+import random
+random.randrange(1, 100)
